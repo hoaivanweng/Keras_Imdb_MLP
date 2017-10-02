@@ -1,1 +1,1 @@
-"# Keras_Imdb_MLP" 
+# Keras_Imdb_MLP
